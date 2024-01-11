@@ -1,8 +1,8 @@
-#problem-statement(blank_data)<br>
+# problem-statement(blank_data)<br>
 Output variable -> y<br>
 y -> Whether the client has subscribed a term deposit or not <br>
-Binomial ("yes" or "no<br>
-#problem_statement(50_startups)<br>
+Binomial ("yes" or "no)<br>
+# problem_statement(50_startups)<br>
 Attribute information For bank dataset
 
    Input variables:
